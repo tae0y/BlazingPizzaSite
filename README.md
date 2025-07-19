@@ -9,3 +9,8 @@ dotnet9에서 다음 워크샵 진행을 위한 데모
 ```zsh
 dotnet new blazor -o BlazingPizzaSit
 ```
+
+3. razor 컴포넌트 추가
+```zsh
+dotnet new razorcomponent -n PizzaBrowser -o Components/Pages
+```
